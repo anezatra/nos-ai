@@ -30,7 +30,7 @@
 ```
 ## Nos AI Models 📝
 **GPT-1 NOS 117M: Soon ❌** <br/>
-**GPT-2 NOS 124M: Click to access the [model](anezatra/gpt2-nos-124M). ✔️** <br/>
+**GPT-2 NOS 124M: Click to access the [model](https://huggingface.co/anezatra/gpt2-nos-124M). ✔️** <br/>
 **GPT-2 NOS 355M: Soon ❌** <br/>
 
 ## All modules 🔍
