@@ -1,0 +1,7 @@
+google
+colorama
+requests
+torch==2.0.1
+transformers==4.31.0
+instaloader
+instagrapi==2.0.0
