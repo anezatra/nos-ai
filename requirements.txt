@@ -3,5 +3,5 @@ colorama
 requests
 torch==2.0.1
 transformers==4.31.0
-instaloader
+instaloader==4.11.0
 instagrapi==2.0.0
